@@ -1,0 +1,15 @@
+body{ font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;}
+    p{font-family: "Playfair Display", serif;
+        font-optical-sizing: auto;
+        font-weight: <weight>;
+        font-style: normal;
+        }
+      #u{font-family: "Caveat", cursive;
+        font-optical-sizing: auto;
+        font-weight: <weight>;
+        font-style: normal; text-indent: 60px;
+  }
+     
