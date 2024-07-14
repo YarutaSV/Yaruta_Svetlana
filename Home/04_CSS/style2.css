@@ -1,0 +1,5 @@
+td.color{background-color: tomato;}
+td.line1{border-bottom-style: dashed;}
+td.line{border-right-style: dashed;
+border-top-style: dashed;}
+td.line3{border-top-style: dashed;}
